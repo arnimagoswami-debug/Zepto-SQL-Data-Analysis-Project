@@ -25,3 +25,13 @@ The goal is to explore, clean, and derive insights from product-level data.
 - Discounts vary widely across categories.
 - Certain premium products are frequently out of stock.
 - Bulk items contribute most to total inventory weight.
+
+
+## 🏷️ Author
+**Arnima Goswami**  
+📧 arnimagoswami2001@gmail.com  
+💼 www.linkedin.com/in/arnima-goswami10
+
+---
+
+### ⭐ If you find this project helpful, don’t forget to star this repo!
